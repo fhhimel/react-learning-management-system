@@ -1,0 +1,12 @@
+#list {
+    display: none;
+  }
+  
+#list.active {
+    display: block;
+  }
+
+/* .attendance{
+    display: flex;
+    
+} */

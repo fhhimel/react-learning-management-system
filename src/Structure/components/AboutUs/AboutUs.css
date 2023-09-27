@@ -1,0 +1,20 @@
+.about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: white !important;
+    color: white;
+  }
+  .about-section p {
+      text-align: justify;
+      color: black;
+      font-size: 20px;
+      font-weight: 100;
+      margin: 20px auto;
+      max-width: 900px;
+      
+
+  }
+  .about-section h1 {
+    font-family:  'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif
+
+  }
